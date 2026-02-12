@@ -9,4 +9,4 @@ Programs will include:
 - Factorial
 - Palindrome
 - Armstrong Number
-- Sum of Digits
+- Sum of Digits 
