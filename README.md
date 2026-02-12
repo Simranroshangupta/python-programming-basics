@@ -7,9 +7,6 @@ These programs are part of my First Year – Semester 1 coursework.
 - Check odd or even number
 - Check prime number
 - Check voting eligibility
-- Programs using if–else statements
-- Programs using nested if–else statements
-- Programs using nested if–elif statements
 - Find the largest among three numbers
 
 ### Looping Statements
