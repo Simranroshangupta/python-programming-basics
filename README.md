@@ -1,23 +1,34 @@
-## Python Programming Basics
+# Python Programming Basics
 
-This repository contains basic Python programs.
-These programs are part of my First Year – Semester 1 coursework.
+This repository showcases my understanding of Python fundamentals.
+It contains small, focused programs that demonstrate core concepts
+such as conditional statements, loops, and number-based logic.
+
+The purpose of this repository is to document what I have studied
+and practiced while learning Python and to serve as proof of my
+foundational programming skills.
+
+## Topics Covered
 
 ### Conditional Statements
-- Check odd or even number
-- Check prime number
-- Check voting eligibility
-- Find the largest among three numbers
+- Odd and Even number check
+- Prime number check (count method)
+- Voting eligibility
+- Largest among three numbers
+- Nested if–else decision making (age categories)
 
 ### Looping Statements
-- Display numbers from 1 to 20
-- Print multiplication table of a number
-- Find factorial of a number
-- Check palindrome number
-- Check Armstrong number
-- Find sum of digits of a number
-- Find sum of unique digits of a minimum 5-digit number
+- Counting numbers from 1 to 20
+- Multiplication table of a number
+- Factorial of a number
 
-### Other Programs
-- Basic input and output programs
-- Simple number programs
+### Number-Based Logic Programs
+- Palindrome number
+- Armstrong number
+- Sum of digits of a number
+- Sum of unique digits of a number
+
+## Notes
+These programs focus on clarity, correctness, and logical thinking.
+They are intentionally simple and are meant to demonstrate strong
+foundational understanding rather than advanced frameworks or libraries.
