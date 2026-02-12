@@ -1,7 +1,7 @@
 ## Python Programming Basics
 
 This repository contains basic Python programs.
-These programs are part of my First Year – Semester 2 coursework.
+These programs are part of my First Year – Semester 1 coursework.
 
 ### Conditional Statements
 - Check odd or even number
