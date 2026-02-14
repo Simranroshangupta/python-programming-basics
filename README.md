@@ -33,6 +33,7 @@ It covers core Python fundamentals with simple and well-structured examples.
 - break statement
 - continue statement
 - loop–else construct
+- pass statement
 
 ### Number-Based Logic Programs
 - Palindrome number
@@ -51,7 +52,4 @@ It covers core Python fundamentals with simple and well-structured examples.
 - Handling invalid user input
 - try–except–finally
 
----
-
-## Folder Structure
 
