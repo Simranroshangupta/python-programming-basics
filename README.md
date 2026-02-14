@@ -1,12 +1,9 @@
 # Python Programming Basics
 
-This repository showcases my understanding of Python fundamentals.
-It contains small, focused programs that demonstrate core concepts
-such as conditional statements, loops, and number-based logic.
+This repository contains beginner-level Python programs created as part of my learning journey in B.Sc. AI & ML.  
+It covers core Python fundamentals with simple and well-structured examples.
 
-The purpose of this repository is to document what I have studied
-and practiced while learning Python and to serve as proof of my
-foundational programming skills.
+---
 
 ## Topics Covered
 
@@ -17,10 +14,25 @@ foundational programming skills.
 - Largest among three numbers
 - Nested if–else decision making (age categories)
 
+### Operators
+- Arithmetic operators
+- Relational (comparison) operators
+- Logical operators
+- Assignment operators
+- Membership operators
+- Identity operators
+
 ### Looping Statements
+- for loop
+- while loop
 - Counting numbers from 1 to 20
 - Multiplication table of a number
 - Factorial of a number
+
+### Loop Control Statements
+- break statement
+- continue statement
+- loop–else construct
 
 ### Number-Based Logic Programs
 - Palindrome number
@@ -28,7 +40,18 @@ foundational programming skills.
 - Sum of digits of a number
 - Sum of unique digits of a number
 
-## Notes
-These programs focus on clarity, correctness, and logical thinking.
-They are intentionally simple and are meant to demonstrate strong
-foundational understanding rather than advanced frameworks or libraries.
+### Collections
+- Lists (basics, operations, programs)
+- Tuples (basics, operations, programs)
+- Dictionaries (basics, operations, real-life examples)
+- Sets (unique elements and set operations)
+
+### Exception Handling
+- Basic try–except
+- Handling invalid user input
+- try–except–finally
+
+---
+
+## Folder Structure
+
