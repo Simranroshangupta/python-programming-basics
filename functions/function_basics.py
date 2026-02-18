@@ -1,7 +1,7 @@
 # FUNCTION BASICS
-# Meaning:
-# A function is a block of reusable code that performs a specific task.
-# It runs only when it is called.
+"""WHAT: Function is a reusable block of code.
+WHY: To avoid repetition.
+HOW: Defined using def keyword and called when needed."""
 
 # Defining a function
 def greet():

@@ -1,4 +1,7 @@
 # Input Error Handling in Python
+"""WHAT: Handles invalid input errors.
+WHY: To ensure correct input from user.
+HOW: Uses try-except to catch ValueError."""
 
 while True:
     try:

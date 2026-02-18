@@ -1,4 +1,7 @@
 # Try-Except-Finally in Python
+"""WHAT: Handles errors and executes final code.
+WHY: To ensure cleanup code always runs.
+HOW: finally block executes regardless of error."""
 
 try:
     a = int(input("Enter first number: "))

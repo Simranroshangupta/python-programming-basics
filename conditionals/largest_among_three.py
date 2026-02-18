@@ -1,4 +1,7 @@
 # Program to find the largest among three numbers using if-elif statement
+"""WHAT: Finds the largest among three numbers.
+WHY: To compare multiple values.
+HOW: Uses conditional statements to compare numbers."""
 
 num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))

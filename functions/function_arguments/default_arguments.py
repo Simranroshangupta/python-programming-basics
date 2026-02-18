@@ -1,7 +1,8 @@
 # DEFAULT ARGUMENTS
-# Meaning:
-# Default arguments allow a function to use a default value
-# if no argument is provided during the function call.
+"""WHAT: Function that accepts input values.
+WHY: To work with different data.
+HOW: Values are passed as arguments."""
+
 
 def greet(name="User"):
     print("Hello", name)

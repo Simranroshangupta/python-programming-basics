@@ -1,4 +1,8 @@
 # Conditional Statements
+WHAT: Conditional statements are used to make decisions in a program.
+WHY: They allow execution of different code based on conditions.
+HOW: Python uses if, elif, and else to evaluate conditions and control flow.
+
 
 This folder contains Python programs based on conditional
 statements used for decision making in programs.

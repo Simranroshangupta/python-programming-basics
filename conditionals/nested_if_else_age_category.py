@@ -1,4 +1,7 @@
 # Program to demonstrate if-else statement with nested decisions
+"""WHAT: Classifies age into categories.
+WHY: To make multi-level decisions.
+HOW: Uses nested if-else conditions."""
 
 age = int(input("Enter your age: "))
 

@@ -1,4 +1,7 @@
 # Set Basics in Python
+"""WHAT: Set is an unordered collection of unique elements.
+WHY: Used to remove duplicate values.
+HOW: Duplicate values are ignored automatically."""
 
 # Creating a set
 numbers = {1, 2, 3, 4, 4, 5}

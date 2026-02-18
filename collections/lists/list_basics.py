@@ -1,4 +1,7 @@
 # List Basics in Python
+"""WHAT: List is an ordered and mutable collection.
+WHY: Used to store and modify multiple values.
+HOW: Elements are accessed by index and can be changed."""
 
 # Creating a list
 numbers = [10, 20, 30, 40, 50]

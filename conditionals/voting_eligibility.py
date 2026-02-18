@@ -1,4 +1,7 @@
 # Program to check voting eligibility
+"""WHAT: Checks whether a person is eligible to vote.
+WHY: To verify age-based eligibility.
+HOW: Uses if-else to compare age with minimum limit."""
 
 age = int(input("Enter your age: "))
 

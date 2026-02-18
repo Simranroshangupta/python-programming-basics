@@ -1,7 +1,8 @@
 # BUILT-IN FUNCTIONS
-# Meaning:
-# Built-in functions are predefined functions provided by Python.
-# They can be used directly without importing any module.
+"""WHAT: Predefined functions provided by Python.
+WHY: To perform common tasks easily.
+HOW: Called directly without defining them."""
+
 
 numbers = [10, 20, 30, 40, 50]
 

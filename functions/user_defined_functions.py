@@ -1,7 +1,8 @@
 # USER-DEFINED FUNCTIONS
-# Meaning:
-# User-defined functions are functions created by the programmer
-# to perform specific tasks and reuse logic.
+"""WHAT: Functions created by the programmer.
+WHY: To perform specific tasks.
+HOW: Defined using def with parameters and return."""
+
 
 def greet(name):
     print("Hello", name)

@@ -1,4 +1,7 @@
-# Dictionary Basics in Python
+#Dictionary in python
+"""WHAT: Dictionary stores data in key–value pairs.
+WHY: Used to represent structured data.
+HOW: Values are accessed using unique keys."""
 
 # Creating a dictionary
 student = {
