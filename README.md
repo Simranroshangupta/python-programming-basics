@@ -1,60 +1,73 @@
-# Python Programming Basics 🐍
+# Python Programming Basics
 
-This repository demonstrates my understanding of **core Python fundamentals**
-through structured examples and logic-based programs.  
-It was developed as part of my **B.Sc. Artificial Intelligence & Machine Learning**
-coursework to build a strong foundation before moving to Object-Oriented
-Programming and real-world projects.
+## Overview
+This repository demonstrates core Python fundamentals through structured examples and logic-based programs. It focuses on building a strong foundation in problem-solving, control flow, and code organization.
+
 ---
 
-## What This Repository Demonstrates (Interviewer Focus)
+## Key Concepts
+- Control flow using conditional statements
+- Looping and iteration
+- Functions and modular code
+- Collections (lists, tuples, sets, dictionaries)
+- Exception handling
+- Basic problem-solving using Python
 
-- Clear understanding of Python control flow and logic building
-- Ability to break problems into small, reusable components
-- Practical use of functions and built-in methods
-- Structured organization of code for readability and maintenance
-- Consistent coding style with meaningful examples
 ---
 
-## Core Concepts Covered
+## Topics Covered
 
-### Control Flow & Logic
-- Conditional statements (if / elif / else)
-- Nested decision-making
+### Control Flow
+- if / elif / else statements
+- Nested conditions
 - Logical and relational operators
-- Looping constructs and loop control
 
-### Problem-Solving Programs
-- Odd–even and prime number checks
-- Factorial and multiplication table
-- Palindrome and Armstrong numbers
-- Digit-based logical problems
+### Loops and Iteration
+- for and while loops
+- Break and continue statements
+- Loop-based problem solving
 
-### Data Handling & Collections
-- Lists, tuples, dictionaries, and sets
-- Common operations and real-life examples
-- Indexing and slicing of sequences
-
-### Functions & Reusability
+### Functions
 - User-defined functions
 - Parameters and return values
 - Default and keyword arguments
-- Built-in `help()` function for documentation
-- 
-### Built-in Methods
-- String, list, tuple, dictionary, and set methods
-- Understanding mutable vs immutable data types
+
+### Collections
+- Lists, tuples, sets, and dictionaries
+- Indexing and slicing
+- Common operations
+
 ### Exception Handling
-- try–except blocks
-- Handling invalid user input
-- try–except–finally usage
+- try and except blocks
+- Handling invalid input
+- try–except–finally
+
+### Problem Solving
+- Prime number check
+- Palindrome and Armstrong numbers
+- Factorial and number-based logic programs
+
 ---
 
-## Repository Structure (Clean & Intentional)
-- Concepts are separated into dedicated folders
-- Each file focuses on a single concept
-- Examples are minimal but meaningful
-- Emphasis on logic clarity over complexity
+## Project Structure
+Each concept is organized into separate folders for clarity and maintainability.
+
 ---
+
 ## How to Run
-python filename.py
+1. Clone the repository  
+2. Run any file using:
+   python filename.py
+
+---
+
+## Skills Demonstrated
+- Strong understanding of Python fundamentals
+- Logical thinking and problem decomposition
+- Writing clean and readable code
+- Organizing code into structured modules
+
+---
+
+## Author
+Simran Roshan Gupta
